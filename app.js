@@ -1,4 +1,4 @@
-process.env['ffmpeg_path'] = 'E:\\Hirad\\API And Components\\FFMpeg\\ffmpeg-79465_x64\\ffmpeg\\bin\\ffmpeg.exe';
+process.env['ffmpeg_path'] = process.env['ffmpeg_path'] || 'E:\\Hirad\\API And Components\\FFMpeg\\ffmpeg-79465_x64\\ffmpeg\\bin\\ffmpeg.exe';
 
 const ffmpeg = require('./lib/ffmpeg');
 
