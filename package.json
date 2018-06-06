@@ -1,0 +1,21 @@
+{
+  "name": "nixosoft-ffmpeg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hira Nikoo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HiradNikoo/nixosoft-ffmpeg.git",
+    "username": "hirad.nicol@gmail.com",
+    ""
+  },
+  "bugs": {
+    "url": "https://github.com/HiradNikoo/nixosoft-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/HiradNikoo/nixosoft-ffmpeg#readme",
+  "description": ""
+}
